@@ -9,14 +9,6 @@ draft: false
 ---
 地址: railgun.de5.net
 :::note[注意]
-你需要准备自己的key导入使用，该实例不提供公益API
+需要将自己的key导入使用，该实例不提供公益API
 :::
-```yaml
----
-title: Encryption Example
-published: 2026-01-30
-encrypted: true
-password: "123456"
-...
----
-```
+~~这项目会有人用吗？~~
