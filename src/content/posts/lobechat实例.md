@@ -8,8 +8,8 @@ category: Encryption
 draft: false
 ---
 地址: railgun.de5.net
-:::note[我的自定义标题]
-这是一个带有自定义标题的注意。
+:::note[注意]
+你需要准备自己的key导入使用，该实例不提供公益API
 :::
 ```yaml
 ---
