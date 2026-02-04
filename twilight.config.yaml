@@ -7,7 +7,7 @@ site:
     # 站点副标题
     subtitle: "御坂网络"
     # 语言配置
-    lang: "en"
+    lang: "zh-CN"
     # 翻译配置
     translate:
         # 启用翻译功能
@@ -77,10 +77,10 @@ site:
                 # 在主页显示文本
                 enable: true
                 # 主标题
-                title: "railnet"
+                title: "Railnet"
                 # 副标题，支持单个字符串或字符串数组
                 subtitle:
-                    - "Illuminate Our Paths"
+                    - "千江有水千江月，万里无云万里天"
                 # 副标题打字机效果
                 typewriter:
                     # 启用副标题打字机效果
