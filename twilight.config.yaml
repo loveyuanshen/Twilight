@@ -212,7 +212,7 @@ sidebar:
                 position: "top"
             - # 组件 - 文章类别 (预设)
                 # 类型
-                type: "categories"
+                type: "分类"
                 # 位置策略 ("top" 顶部固定 | "sticky" 粘性)
                 position: "sticky"
                 # 响应式配置
@@ -266,7 +266,7 @@ profile:
 # 公告配置
 announcement:
     # 公告标题
-    title: "Announcement"
+    title: "公告"
     # 公告内容
     content: "网站已与2025.2.2完成迁移"
     # 允许用户关闭公告
@@ -276,7 +276,7 @@ announcement:
         # 启用链接
         enable: true
         # 链接文本
-        text: "Learn More"
+        text: "了解更多"
         # 链接 URL
         url: "/about/"
         # 是否外部链接
