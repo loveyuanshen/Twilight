@@ -1,7 +1,9 @@
 {
-    "title": "Spr_Aachen's Blog",
-    "imgurl": "https://blog.spr-aachen.com/assets/images/avatar.png",
-    "desc": "Spr_Aachen's Personal Blog",
-    "siteurl": "https://blog.spr-aachen.com",
-    "tags": ["Blog"]
+  "title": "Spr_Aachen's Blog",
+  "imgurl": "https://blog.spr-aachen.com/assets/images/avatar.png",
+  "desc": "性格超好的项目作者，是只可爱猫猫",
+  "siteurl": "https://blog.spr-aachen.com",
+  "tags": [
+    "Blog"
+  ]
 }
