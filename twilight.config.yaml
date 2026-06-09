@@ -268,7 +268,7 @@ announcement:
     # 公告标题
     title: "公告"
     # 公告内容
-    content: "网站已与2025.2.2完成迁移"
+    content: "网站已于2025.2.2完成迁移"
     # 允许用户关闭公告
     closable: true
     # 链接配置
