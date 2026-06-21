@@ -6,7 +6,7 @@ description: |-
   项目地址:
   https://github.com/maotoumao/MusicFree
   官网:https://musicfree.catcat.work
-cover: img_20260621_202756.jpg
+cover: ""
 tags:
   - MusicFree
 category: 音乐软件
