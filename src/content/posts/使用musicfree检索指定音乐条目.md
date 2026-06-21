@@ -21,9 +21,12 @@ draft: false
 3.下载并安装
 # 安装插件
 1.关于插件
-插件是一种js文件，文件名示例: example.js 
+插件是一种js文件. 文件名格式: example.js 
+
 插件地址请自行百度获取，本站暂不提供相关服务
-参考文档[https://mp.weixin.qq.com/s/c5DoNMZMOVXyFO56dYAg2A](URL“开发者的公众号文章”)
+
+参考文档
+[https://mp.weixin.qq.com/s/c5DoNMZMOVXyFO56dYAg2A](URL“开发者的公众号文章”)
 2.安装插件
 进入软件，右滑，找到“插件管理”
 点击右下角“+”，选择“从网络安装插件”，输入后点击确认导入
