@@ -42,7 +42,7 @@ Mac book Air标配 ,M5处理器.配备10+8核处理器和神经网络加速器.
 
 接着我让它检索适合本地跑AI的客户端.
 
-它给我两种主流框架:ollama和LM studio.
+它给我两种主流框架: ollama和 LM studio.
 
 其中ollama配置简单,适合小白使用,vllm,omlx更适合量化和集群部署,并不适合个人developer自行部署.
 
